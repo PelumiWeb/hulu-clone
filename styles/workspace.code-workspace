@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "hulu-2.0",
+			"path": ".."
+		},
+		{
+			"name": "component",
+			"path": "..\\..\\Desktop\\hulu\\component"
+		}
+	],
+	"settings": {}
+}
