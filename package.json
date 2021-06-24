@@ -5,8 +5,8 @@
   "scripts": {
     "compile_tailwindcss":"postcss styles/globals.css  -o public/styles.css",
     "dev": "next dev",
-    "build": "next compile_tailwindcss && build",
-    "start": "next compile_tailwindcss && start"
+    "build": "next build",
+    "start": "next start"
 
   },
   "dependencies": {
