@@ -5,7 +5,6 @@ import request from '../utilis/request'
 import Result from '../component/Result'
 
 export default function Home({results}) {
-  console.log(results)
   return (
     <div className=''>
     <Head>
